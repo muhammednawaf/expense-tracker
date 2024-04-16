@@ -42,7 +42,7 @@ The project structure is organized as follows:
 
 ## Demo
 
-You can view a live demo of the Expense Tracker app [here](https://muhammednawaf.github.io/codealpha_tasks2/).
+You can view a live demo of the Expense Tracker app [here](https://muhammednawaf.github.io/codealpha_task2/).
 
 ## Contributing
 
